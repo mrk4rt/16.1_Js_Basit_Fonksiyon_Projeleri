@@ -1,0 +1,2 @@
+# 16.1_Js_Basit_Fonksiyon_Projeleri
+Basit_Fonksiyon_Projeleri
